@@ -1,4 +1,4 @@
-# VMWare-Linux16.04ISO
+# VMWare-Linux ISO
 The tools you'll need for your future works
 
 You need to download both VMWare file and Linux ISO file onto your laptop. 
